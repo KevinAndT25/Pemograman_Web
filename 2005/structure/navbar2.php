@@ -2,9 +2,9 @@
   $current = basename($_SERVER['PHP_SELF'], ".php");
 ?>
 
-<nav class="navbar navbar-custom randd sticky-top shadow-sm d-flex justify-content-between align-items-center">
-  <div class="text-white fs-4 fw-bold">KEVIN</div>
-  <div class="d-flex">
+<nav class="navbar navbar-custom sticky-top shadow-sm d-flex justify-content-between align-items-center">
+  <a class="nav-link-logo" href="../index.php"><img src="../picture/logo_web.png" alt="Logo" style="height: 50px;"> </a>
+  <div class="d-flex randd">
     <a class="nav-link <?= $current == 'index' ? 'active' : '' ?>" href="../index.php">HOME</a>
     <a class="nav-link <?= $current == 'about' ? 'active' : '' ?>" href="../about.php">ABOUT</a>
     <a class="nav-link <?= $current == 'study' ? 'active' : '' ?>" href="../study.php">STUDY</a>
@@ -60,6 +60,20 @@
     height: 3px;
     background: white;
     border-radius: 3px;
+  }
+
+  .navbar-custom .nav-link-logo img {
+    transition: transform 0.3s ease, filter 0.3s ease;
+  }
+
+  .navbar-custom .nav-link-logo:hover img {
+    transform: scale(1.2);
+    filter: brightness(1.2);
+  }
+
+   .navbar-custom .nav-link-logo:hover {
+    border-radius: 50%;
+    box-shadow: 0 0 15px var(--hover);
   }
 
   /* Tambahan efek shimmer garis bawah */
