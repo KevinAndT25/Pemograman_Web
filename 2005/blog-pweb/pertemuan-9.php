@@ -201,10 +201,12 @@
         <h1>LARAVEL AUTH, CRUD Multi Level User Next Step</h1>
 
         <h3>1. Tujuan</h3>
-        <p>Praktikum ini bertujuan untuk melatih pengguna dalam mengelola data pengguna (user management) menggunakan Laravel. 
-          Kegiatan mencakup pembuatan controller resource, implementasi CRUD pengguna, integrasi tampilan dengan Blade dan Bootstrap, 
-          serta penggunaan plugin seperti Select2 dan DataTables untuk mempercantik antarmuka. Selain itu, pengguna juga dilatih 
-          menambahkan navigasi dan memahami alur penyimpanan data melalui Eloquent.</p>
+        <p>Untuk menambah pemahaman pengguna mengenai cara menginstal dan membuat project Laravel 
+          menggunakan Composer, serta mengatur konfigurasi database dengan benar. 
+          Praktikum ini juga bertujuan agar pengguna dapat memahami proses pembuatan sistem autentikasi 
+          seperti login dan register menggunakan Laravel UI. Selain itu, pengguna dilatih untuk memodifikasi 
+          struktur tabel users sesuai kebutuhan, menambahkan data admin dengan seeder, serta mengintegrasikan 
+          template Bootstrap guna memperindah tampilan antarmuka menggunakan Blade templating engine di dalam Laravel.</p>
         <br>
 
         <h3>2. Langkah-langkah</h3>
