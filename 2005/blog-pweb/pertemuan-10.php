@@ -339,7 +339,7 @@
             <br>
           </li>
           <li>
-            <h4>3. Update DatabaseSeeder</h4>
+            <h4>4. Update DatabaseSeeder</h4>
             <ul>
               <li>Perbaiki kode yang ada di file DatabaseSeeder menjadi seperti program berikut</li>
                 <img src="../picture/p10/24seeder.png" alt="DatabaseSeeder" class="guide-img"> 
@@ -424,7 +424,7 @@
           relationship antar tabel dalam database menggunakan Laravel. Praktikum dimulai 
           dari pembuatan migration dengan foreign key, lalu dilanjutkan dengan penerapan 
           relasi One-to-Many dan Many-to-Many menggunakan fitur Eloquent ORM. 
-          Mahasiswa juga memahami bagaimana melakukan *query* antar relasi secara efisien 
+          Mahasiswa juga memahami bagaimana melakukan query antar relasi secara efisien 
           dan terstruktur dengan memanfaatkan kemampuan yang disediakan oleh Laravel.</p> 
         <p>Selain itu, mahasiswa dilatih untuk menampilkan data relasional tersebut ke dalam 
           view menggunakan Blade templating engine, sehingga mampu membangun keterkaitan logis 
