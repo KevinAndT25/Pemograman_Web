@@ -265,7 +265,20 @@
               <div class="card-materi h-100">
                   <div class="card-title">Laporan Praktikum - Pertemuan 10</div>
                   <div class="card-subtitle">Laravel Relationship Student, Major, dan Subject</div>
-                  <img src="picture/p10/33result.png" alt="Pertemuan 9">
+                  <img src="picture/p10/33result.png" alt="Pertemuan 10">
+              </div>
+            </a>
+          </div>
+        </div>
+
+        <!-- TUGAS API -->
+        <div class="col-md-6 mb-4 d-flex">
+          <div class="container">
+            <a href="blog-pweb/pertemuan-15.php" class="text-decoration-none text-dark w-100">
+              <div class="card-materi h-100">
+                  <div class="card-title">Tugas Perkuliahan - Pertemuan 15</div>
+                  <div class="card-subtitle">API dan RESTful API</div>
+                  <img src="picture/p15/23post.png" alt="Pertemuan 15">
               </div>
             </a>
           </div>
