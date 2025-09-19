@@ -226,7 +226,7 @@
               <div class="card-materi h-100">
                   <div class="card-title">Laporan Praktikum - Pertemuan 2</div>
                   <div class="card-subtitle">Setup Flutter Development, Stateless & Statefull Widget, Basic Widgets</div>
-                  <img src="picture_amob/p1/1.png" alt="Pertemuan 2">
+                  <img src="picture_amob/p2/profile2.png" alt="Pertemuan 2">
               </div>
             </a>
           </div>
@@ -246,3 +246,4 @@
   <script src="external\fontawesome\fontawesome.js" crossorigin="anonymous"></script>
 </body>
 </html>
+
