@@ -232,6 +232,19 @@
           </div>
         </div>
 
+        <!-- PERTEMUAN 3 -->
+        <div class="col-md-6 mb-4 d-flex">
+          <div class="container">
+            <a href="blog-amobile/pertemuan-3.php" class="text-decoration-none text-dark w-100">
+              <div class="card-materi h-100">
+                  <div class="card-title">Laporan Praktikum - Pertemuan 3</div>
+                  <div class="card-subtitle">Input Widgets dan Basic Form</div>
+                  <img src="picture_amob/p3/kabataku6.png" alt="Pertemuan 3">
+              </div>
+            </a>
+          </div>
+        </div>
+
       </div>
     </div>
   </main>
@@ -246,4 +259,3 @@
   <script src="external\fontawesome\fontawesome.js" crossorigin="anonymous"></script>
 </body>
 </html>
-
