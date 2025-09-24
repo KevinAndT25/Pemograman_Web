@@ -290,7 +290,14 @@
         <br>
 
         <h4>Kesimpulan</h4>
-        <p>...</p>
+        <p>Berdasarkan praktikum yang telah dilakukan, dapat disimpulkan bahwa pengembangan 
+            aplikasi mobile dengan Flutter memerlukan persiapan lingkungan development yang 
+            komprehensif meliputi instalasi SDK Flutter, Android Studio, dan Visual Studio 
+            Code, serta pemahaman mendalam tentang konsep stateless dan stateful widget 
+            sebagai fondasi pembangunan UI dinamis, dimana penguasaan berbagai basic widget 
+            seperti Text, Container, ElevatedButton, Icon, dan Image memungkinkan pembuatan 
+            antarmuka yang fungsional dan estetis baik dalam bentuk layout vertikal, 
+            horizontal, maupun halaman profil yang kompleks.</p>
         <br>
 
         <h4>Latihan</h4>
@@ -342,3 +349,4 @@
   <script src="..\external\fontawesome\fontawesome.js" crossorigin="anonymous"></script>
 </body>
 </html>
+
