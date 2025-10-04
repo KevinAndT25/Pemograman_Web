@@ -245,6 +245,19 @@
           </div>
         </div>
 
+        <!-- PERTEMUAN 4 -->
+        <div class="col-md-6 mb-4 d-flex">
+          <div class="container">
+            <a href="blog-amobile/pertemuan-4.php" class="text-decoration-none text-dark w-100">
+              <div class="card-materi h-100">
+                  <div class="card-title">Laporan Praktikum - Pertemuan 4</div>
+                  <div class="card-subtitle">Navigation & Routing : Multiple Screen</div>
+                  <img src="picture_amob/p4/pp.png" alt="Pertemuan 4">
+              </div>
+            </a>
+          </div>
+        </div>
+
       </div>
     </div>
   </main>
